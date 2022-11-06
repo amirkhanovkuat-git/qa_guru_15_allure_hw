@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 06 12:10:59 GMT 2022","Sun Nov 06 12:10:59 GMT 2022","1","","one.kz.LabelsTest","","one.kz.LabelsTest","testDynamicLabels","Проверка Issue для авторизованного пользователя",""
+"passed","Sun Nov 06 12:10:52 GMT 2022","Sun Nov 06 12:10:58 GMT 2022","5820","","one.kz.AttachmentsTest","","one.kz.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Sun Nov 06 12:10:59 GMT 2022","Sun Nov 06 12:10:59 GMT 2022","1","","one.kz.LabelsTest","","one.kz.LabelsTest","testStaticLabels","Проверка Issue для авторизованного пользователя",""
+"passed","Sun Nov 06 12:11:02 GMT 2022","Sun Nov 06 12:11:04 GMT 2022","1697","","one.kz.StepsTest","","one.kz.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Sun Nov 06 12:10:58 GMT 2022","Sun Nov 06 12:10:59 GMT 2022","1084","","one.kz.AttachmentsTest","","one.kz.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Sun Nov 06 12:10:59 GMT 2022","Sun Nov 06 12:11:02 GMT 2022","2940","","one.kz.SelenideTest","","one.kz.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Sun Nov 06 12:11:04 GMT 2022","Sun Nov 06 12:11:06 GMT 2022","2053","","one.kz.StepsTest","","one.kz.StepsTest","testLambdaStep","testLambdaStep()",""
