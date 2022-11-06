@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfcfea54-6050-4c4f-8fb0-09f4bff6edc9" name="Changes" comment="add selenoid">
+    <list default="true" id="dfcfea54-6050-4c4f-8fb0-09f4bff6edc9" name="Changes" comment="add allure report">
       <change beforePath="$PROJECT_DIR$/.github/workflows/test.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667734286021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add allure report">
+      <created>1667735256642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667735256642</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +261,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add simple ci" />
     <MESSAGE value="add selenoid" />
-    <option name="LAST_COMMIT_MESSAGE" value="add selenoid" />
+    <MESSAGE value="add allure report" />
+    <option name="LAST_COMMIT_MESSAGE" value="add allure report" />
   </component>
 </project>
